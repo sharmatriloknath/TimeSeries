@@ -2,14 +2,12 @@
 **Timeseries:** A time series is nothing but a sequence of various data points that occurred in a successive order for a given period of time.
 
 #### How to Analyze the Timeseries Data
-    <div alert alert-danger>
     - Collecting the data and cleaning it
     - Preparing Visualization with respect to time vs key feature
     - Observing the stationarity of the series
     - Developing charts to understand its nature.
     - Model building – AR, MA, ARMA and ARIMA
     - Extracting insights from prediction 
-    </div>
 
 ### Components of Timeseries
 1. **Trend:** In which there is no fixed interval and any divergence within the given dataset is a continuous timeline. The trend would be Negative or Positive or Null Trend.
