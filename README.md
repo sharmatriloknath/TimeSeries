@@ -56,3 +56,5 @@ p-value <= 0.05 Accept (H1)
 - Detrending
 - Differencing
 - Transformation
+
+
